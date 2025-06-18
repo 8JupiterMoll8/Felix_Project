@@ -5,4 +5,6 @@ Add your notes, ideas, or anything else here as you follow along!
 
 This line was added locally as part of a Git learning exercise.
 
+[feature-demo branch] This is a demo line to enable a pull request example.
+
 Das habe ich neue dazu gefooegt.
