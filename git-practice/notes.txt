@@ -4,5 +4,3 @@ This file will be used to practice Git commands.
 Add your notes, ideas, or anything else here as you follow along!
 
 This line was added locally as part of a Git learning exercise.
-
-Das habe ich neue dazu gefooegt.
