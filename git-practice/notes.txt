@@ -5,6 +5,4 @@ Add your notes, ideas, or anything else here as you follow along!
 
 This line was added locally as part of a Git learning exercise.
 
-[experiment-idea branch] This is a test line for a new idea.
-
 Das habe ich neue dazu gefooegt.
